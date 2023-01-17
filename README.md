@@ -1,1 +1,1 @@
-Esta prueba es para crear un repositorio y clonarlo desde GitHub
+Este es proyecto es como Seba crea un repositorio y clonarlo desde github a mi escritorio local
